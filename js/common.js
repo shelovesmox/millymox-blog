@@ -74,6 +74,8 @@ $(document).ready(function() {
     noResultsText: '<li class="no-results"><h3>No results found</h3></li>'
   });
 
+  console.log("running")
+
 
   /* =======================
   // LazyLoad Images
