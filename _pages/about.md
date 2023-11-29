@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 image: '/images/60.jpg'
 ---
-Hi there! I'm Mox, a 17-year-old with a keen interest in software engineering and reverse engineering and artifical intelligence. My journey into software engineering began when I was 9, and it's been an adventure filled with learning and discovery ever since.
+Nice to see you made it here, I'm Mox, a 17-year-old with a keen interest in software engineering and reverse engineering and artifical intelligence. My journey into software engineering began when I was 9, and it's been an adventure filled with learning and discovery ever since.
 
 I like to think of myself as someone who's always ready to learn something new, especially in the world of technology. My passion lies in understanding how things work from the inside out, which naturally led me to the fascinating realms of cybersecurity and software development.
 
