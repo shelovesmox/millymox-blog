@@ -3,8 +3,8 @@ layout: post
 title:  So you are worried about AI?
 description: The state of AI and why newbies should do less worrying.
 date:   2023-11-17 15:01:35 +0300
-image:  '/images/post1.png'
-tags:   [Software Engineering, Android, AI]
+image:  '/images/post1.jpg'
+tags:   [Software Engineering, AI]
 ---
 coming soon lol...
 
