@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Polemos
+title: millymox
 description: Offensive Security and food for thought.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com

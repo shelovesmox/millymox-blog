@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Reverse Engineering Reddit Pt. 1
-description: Finding how reddit makes their hmac signature header.
+title:  So you are worried about AI?
+description: The state of AI and why newbies should do less worrying.
 date:   2023-11-17 15:01:35 +0300
-image:  '/images/20.png'
-tags:   [Reverse Engineering, Android, Ghidra]
+image:  '/images/post1.png'
+tags:   [Software Engineering, Android, AI]
 ---
 coming soon lol...
 
