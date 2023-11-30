@@ -6,4 +6,24 @@ date:   2023-11-17 15:01:35 +0300
 image:  '/images/post1.jpg'
 tags:   [Software Engineering, AI]
 ---
-You've come across ChatGPT and AI Hypist have convinced you that you ought to be paranoid about the security of your new interest/career, and frankly, they are't **entirely** wrong. However, it's important that you realize the state of AI right now, its capabilties and the nuances that come with software engineering. I'll also share my perspective on the matter and why you should do less worrying, and more programming.
+You've come across ChatGPT and AI Hypist have convinced you that you ought to be paranoid about the security of your new interest/career, and frankly, they aren't **entirely** wrong. However, it's important that you realize the state of AI right now, its capabilties and the nuances that come with software engineering. I'll also share my perspective on the matter and why you should do less worrying, and more programming.
+
+
+
+## Software Engineering Is NOT Just About Coding
+
+As a young engineer and novice programmer its important you must understand that the sheer complexity of software engineering extends far beyond simply coding. It involves maintaining huge codebases with millions of lines, documenting and comprehending the program's requirements to meet the needs of end-users and stakeholders, and performing maintenance. This includes patching bugs, rolling out updates, ensuring compatibility with new systems and hardware, and writing high-quality tests. And while AI can automate making test, its human judgement that remains and will continue to remain highly valuable in deciding which areas need more testing based on potential risk and tradeoffs.
+
+Right Now [GPT 4](https://chat.openai.com/) is the most powerful language learning model (LLM) available to the public. You most likely (Where have you been if not?) have heard of GPT 4, and hell you probably use it, I sure do. It is incredibly helpful when breaking down concepts, complex code or generating quick snippets of code for things I may be too lazy to write. I love ChatGPT and i pay for the subscription because it yeilds value to me. Despite this it is not a replacement for an junior engineer (yet). It's a non expert tutor that doesn't get annoyed by endless questions. The more I use ChatGPT, the more i realize how little it really knows about software engineering. Again, don't get me wrong its an incredible tool, but it has some weak points.
+
+![Preventing Data Races]({{site.baseurl}}/images/gpt4ex.png)
+*GPT 4 / [OpenAI](https://openai.com/)*
+
+| Weak Point | Description |
+|-----------|-------------|
+| Lack Of Memory | Memory limitations or inability to retain past interactions effectively. |
+| No Understanding of My Environment and System | Inability to directly perceive or interact with the user's physical environment or computing system. |
+| Inability to Comprehend Obscure Documentation | Difficulty in understanding poorly written or highly technical documentation without context. |
+
+
+The last point resonates with me a lot. I was trying to get ChatGPT to help me with a GUI library in Rust. There was 0 documentation besides docs.rs and code examples (which in my opinion is a lazy replacement for documentation). I downloaded the entire docs.rs page for the library and fed it into ChatGPT piece by piece and despite this, it still couldn't figure out how to help me make a custom widget. This is where the disconnect happens between AI Enthusiasts and engineers/non-AI Enthusiasts. Software engineers who actually write, test, and distribute software, and also use tools like ChatGPT realize these limitations and issues. But AI Enthusiasts who had ChatGPT write them a half-baked ping pong game in Python think that's it and we are to be automated within the year. I want to highlight however that these limitations and issues are not things that can't be fixed, but telling people their jobs will be automated by GPT 4.5 "Make up random libraries and borrow the borrow checker from the borrow checker with the borrow checker (Rust joke, unfunny I know)" is absurd and does nothing but cause panic. On the contrary, if all you know how to do is code. You will find yourself outpaced in the future, as engineers who can code and use AI tools will render you obsolete. So pick up these tools, learn them thoroughly and understand their limitations. Most importantly though, expand your skillset outside of coding. Read a book about software design and architecture (Computer Systems: A Programmer's Perspective - One Of My Favorites), deepen your knowledge in database management and optimization, learn how to write automated tests, and practice the best security patterns.
