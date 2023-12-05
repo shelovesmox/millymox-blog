@@ -40,5 +40,5 @@ I do not claim to know everything about AI and i'm not going to educate you on i
 By the time software engineers can be fully replaced by AI (I am a strong believer we would need AGI at the very minimum to achieve this) then every other job would also be replaced. The trades are safe until robotics catches up, and they aren't too far behind. So realistically, you might have a few extra years after all the white collar jobs are replaced, but blue collar jobs are next up on the chopping block.
 
 <div style="text-align:center;">
-  <img src="https://2.bp.blogspot.com/-ztv8BcdPQpI/WEqOPjy_CmI/AAAAAAAEup8/e35JaOBGUwst6W50I1MC5UIzkH0qT2hHwCLcB/s1600/AW328916_02.gif" alt="Alt Text" style="display:block; margin:auto;" loop=infinite>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.decipherzone.com%2Fblog-detail%2Fchat-gpt-memes&psig=AOvVaw0L6iF7V0gCxpBwC8uZs88t&ust=1701827128684000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDg6Z2W94IDFQAAAAAdAAAAABAE" alt="Alt Text" style="display:block; margin:auto;" loop=infinite>
 </div>
