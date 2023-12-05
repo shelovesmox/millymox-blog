@@ -44,7 +44,7 @@ By the time software engineers can be fully replaced by AI (I am a strong believ
 
 ### Stop reading this shit and develop software.
 
-Remember that in our ever-evolving field, adaptability is key. Stay open to continuous learning and keep pace with emerging technologies. Collaboration and creative problem-solving remain at the heart of software engineering, and these are areas where humans excel.
+Remember that in our ever-evolving field, adaptability is key. Stay open to continuous learning and keep pace with emerging technologies—but don't feel pressured to use them. Collaboration and creative problem-solving remain at the heart of software engineering, and these are areas where humans excel.
 
 Don't underestimate the importance of soft skills like communication, empathy, and critical thinking—they are irreplaceable assets in your career. Embrace mentorship and knowledge sharing to nurture a supportive community within our profession. And always remember to focus on personal growth and well-being, as a balanced life enhances your creativity and job satisfaction.
 
@@ -52,4 +52,4 @@ So, my message remains unchanged: do less worrying and more engineering.
 
 
 ![Debugging LLM Hell Code]({{site.baseurl}}/images/gpt4debug.png)
-*Meme / [LLM Debugging Hell](https://openai.com/)*
+*Meme / [Debugging LLM Hell Code](https://openai.com/)*
