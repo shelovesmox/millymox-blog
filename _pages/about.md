@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/about.jpg'
 ---
 Nice to see you made it here, I'm Mox, a 17-year-old with a keen interest in software engineering and reverse engineering and artifical intelligence. My journey into software engineering began when I was 9, and it's been an adventure filled with learning and discovery ever since.
 
