@@ -34,3 +34,5 @@ Oftentimes as an engineer, you'll be given a ticket with a vague request or feat
 
 ![GPT 4 Attempts To Enhance User Experience]({{site.baseurl}}/images/gpt4amb.png)
 *GPT 4 / [OpenAI](https://openai.com/)*
+
+I do not claim to know everything about AI and i'm not going to educate you on it. But i urge you to educate yourself on AI, understanding how it works will provide with better all around knowleadge so you are able to come down to your own conclusions on new developments or community activity.  nstead of being swayed by those who engage in speculative discussions and claim that your job will be replaced and AGI ([Artficial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)) is next year.
