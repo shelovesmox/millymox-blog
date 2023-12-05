@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: millymox
-description: Offensive Security and food for thought.
+description: Software engineering and food for thought.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ author:
 # Hero Settings
 hero:
   title: Mox
-  description: Software engineering, AI, and food for thought.
+  description: Software engineering and food for thought.
   image: '/images/lol.jpg'
 
 
